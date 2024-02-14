@@ -3,6 +3,8 @@ function hellofunc(){
 }
 hellofunc()
 
-function addNumber(){
-    
+function addNumber(numOne, numTwo){
+    console.log(numOne + numTwo)
 }
+
+addNumber(10,15)
