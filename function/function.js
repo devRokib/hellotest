@@ -8,3 +8,8 @@ function addNumber(numOne, numTwo){
 }
 
 addNumber(10,15)
+
+function sayMyName (){
+    console.log("hello bangladesh")
+}
+sayMyName()
